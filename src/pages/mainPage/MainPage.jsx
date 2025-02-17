@@ -38,7 +38,7 @@ const MainPage = () => {
 
 
   return (
-    <div>
+    <div className={style.wrapper}>
       <h1>MAIN PAGE</h1>
       {
         result && 
