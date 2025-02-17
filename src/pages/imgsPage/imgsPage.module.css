@@ -1,0 +1,16 @@
+.spin{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.animes{
+    width: 1000px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
